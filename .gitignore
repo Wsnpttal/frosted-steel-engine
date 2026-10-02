@@ -1,0 +1,24 @@
+# Build directories (all your languages)
+build/
+bin/
+out/
+dist/
+target/
+zig-cache/
+
+# IDE (Zed)
+.idea/
+.vscode/
+zed-*
+*.zed
+
+# Common build files
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+*.lib
+*.a
+*.so
+*.dylib
