@@ -22,3 +22,8 @@ zed-*
 *.a
 *.so
 *.dylib
+
+
+# Added by cargo
+
+/target
